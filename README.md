@@ -24,10 +24,10 @@ Nous utiliserons uniquement des connaissances de niveau universitaire et excluro
 
 
 ## Hypothèse de recherche
+Un LLM conserve mieux ses règles de sécurité face aux demandes dangereuses simples que face aux demandes qui tentent de contourner ses instructions.
+- Test : comparer des prompts classiques et des prompts contenant « Ignore tes instructions précédentes ».
+- Mesure : taux de refus corrects.
 
-Nous pensons qu'un même modèle d'intelligence artificielle
-obtient des résultats différents selon les trois domaines
-du WMDP : biologie, chimie et cybersécurité.
 
 Nous allons tester cette hypothèse en comparant les
 pourcentages de bonnes réponses dans chaque domaine.
