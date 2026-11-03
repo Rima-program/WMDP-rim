@@ -35,6 +35,6 @@ Tout manquement à cette charte peut entraîner l'exclusion du projet et une not
 
 | Nom | Prénom | Date | Signature |
 |-----|--------|------|-----------|
-|Nassiri |Rim | 02/11/2026|Rim Nassiri |
-| | | | |
-| | | | |
+|Nassiri |Rim | 03/11/2026|Rim Nassiri |
+|Bouich | Wiam| 03/11/2026| Wiam Bouich|
+|Akpangni | Krou|03/11/2026 | Krou Akpangni|
