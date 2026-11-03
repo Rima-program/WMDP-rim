@@ -23,3 +23,11 @@
 - Installer les bibliothèques Python nécessaires.
 - Installer et tester un modèle d'IA.
 - Commencer à organiser les résultats des tests.
+
+
+## Contribution — 03/11
+
+- **Fait** : Création du fichier `cybersecurite_analyse.md` et rédaction de l'analyse des risques et des règles éthiques du parcours WMDP.
+- **Résultats** : Objectif, hypothèse de recherche, méthodologie et précautions de sécurité rédigés.
+- **Blocages** : Aucun blocage particulier.
+- **Prochaine étape** : Participer à l'analyse des résultats et vérifier le respect des règles éthiques pendant les tests.
